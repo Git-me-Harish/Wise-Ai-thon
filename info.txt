@@ -1,0 +1,9 @@
+ENVIRONMENT CREATION:
+
+cd C:\Users\SriHarish\Documents\VS~CODE_folders\Wise-Ai-thon
+
+python -m venv venv
+
+venv\Scripts\activate
+
+deactivate
