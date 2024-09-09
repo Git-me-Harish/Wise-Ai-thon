@@ -7,3 +7,26 @@ python -m venv venv
 venv\Scripts\activate
 
 deactivate
+
+--------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
+
+VERSION CONTROL :
+
+cd path/to/your/project/folder
+
+git init
+
+git remote add origin https://github.com/Git-me-Harish/Wise-Ai-thon.git
+
+git status
+
+git add .
+
+git commit -m "Your commit message"
+
+git push origin main
+
+git pull origin main
+
+
