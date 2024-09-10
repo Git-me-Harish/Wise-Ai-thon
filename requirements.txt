@@ -1,0 +1,10 @@
+ultralytics
+torch
+Pillow
+gradio
+langchain
+pypdf
+sentence-transformers
+faiss-cpu
+transformers
+accelerate
